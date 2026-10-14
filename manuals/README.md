@@ -25,6 +25,11 @@ Public availability does not imply an open redistribution license.
 
 ## Full-PDF publication status
 
+Selected original product images and the four-wire wiring illustration from
+V1.5 are now included at the owner's request, with exact source pages and
+third-party-rights attribution in [asset credits](../assets/README.md).
+This does not change the full-PDF status below.
+
 The two local PDFs have been inspected but are **not mirrored yet**. Permission
 to redistribute them publicly has been requested. No open license was found
 in the inspected documents. Source links and original technical notes are

@@ -1,10 +1,22 @@
-# HSY-250617-v2.3 pH / EC Controller Reference
+# 5 in 1 Water Quality Sensor: HSY-250617-v2.3 pH / EC Controller Reference
 
 Independent field notes, 2026-10-14. Read the safety and variant warnings before
 writing any register. This is a collected technical reference, not an official
 service manual or a claim of manufacturer endorsement.
 
 ## 1. Identify the unit first
+
+Search names include **5 in 1 water quality sensor**, **5-in-1 water quality
+sensor**, **Five-in-One Water Quality Sensor**, and **pH / EC Water Quality Sensor**.
+
+![Controller and probes pictured in the V1.5 manual](../assets/5-in-1-water-quality-sensor-manual.jpg)
+
+![Controller enclosure and dimensions pictured in the V1.5 manual](../assets/water-quality-controller-dimensions-manual.jpg)
+
+These are original product images extracted from V1.5 PDF pages 1 and 3
+(cover and printed page 2). Dimensions are manual claims, not measurements of
+the bench unit. They show the enclosure/product family, not its internal PCB.
+[Image provenance](../assets/README.md).
 
 | Identifier | This investigation |
 | --- | --- |
@@ -28,14 +40,20 @@ Only pH was exercised with buffers here; EC and temperature remained zero.
 
 ![Conceptual bench wiring](../assets/rs485-wiring.svg)
 
-The V1.5 manual and the owner's rear-label inspection give this four-wire map:
+The owner explicitly confirmed this four-wire map on 2026-10-14; it agrees
+with the V1.5 manual:
 
 | Wire | Function | Bench connection |
 | --- | --- | --- |
-| Red | Controller DC supply positive | Suitable external controller supply |
-| Black | Controller DC supply negative | Controller supply return |
-| Yellow | RS485 A+ | Waveshare A+ terminal |
-| Green | RS485 B- | Waveshare B- terminal |
+| Red | Controller DC supply positive (+) | Suitable external controller supply |
+| Black | Controller DC supply negative (-) | Controller supply return |
+| Yellow | RS485 A | Waveshare A+ terminal |
+| Green | RS485 B | Waveshare B- terminal |
+
+![Original manual four-wire connection illustration](../assets/red-black-yellow-green-rs485-wiring-manual.jpg)
+
+Source: V1.5 PDF page 5, printed page 4. The battery symbol is the manual's
+supply illustration, not a recommendation for a particular battery voltage.
 
 **Manual rating:** 7-24 V DC. Verify the actual device label before powering it.
 Do not feed this voltage into ESP32 GPIO or connect A/B directly to TTL UART.

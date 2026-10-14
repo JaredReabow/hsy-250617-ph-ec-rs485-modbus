@@ -1,12 +1,36 @@
-# HSY-250617 pH / EC Controller: RS485, Modbus and Reset
+# 5 in 1 Water Quality Sensor: HSY-250617 pH / EC, RS485 Modbus and Reset
 
-An independent, evidence-backed reference for the unbranded **Water Quality
-Sensor / Five-in-One Water Quality Sensor** controller with PCB marking
+An independent, evidence-backed reference for the unbranded **5 in 1 water quality
+sensor**, also labelled **5-in-1 / Five-in-One Water Quality Sensor**, with PCB marking
 **HSY-250617-v2.3**, tested firmware string **POET-251022-V4.2**.
 
 Wiring, Modbus RTU register notes, calibration troubleshooting, an observed
 settings reset, and an ESP32-S3 bench tool. Not an official manufacturer manual.
 Similar enclosures and BGT-WMPS(O1) manuals do **not** establish identical firmware.
+
+![5 in 1 water quality sensor controller and probes, owner-supplied product image](assets/5-in-1-water-quality-sensor-product.png)
+
+*Product image supplied by the owner. Manual product images and dimensions are
+also included in the [controller guide](docs/controller-guide.md#1-identify-the-unit-first).
+These images identify the product family, not the individual bench-tested PCB
+or a verified set of measurement/output capabilities. [Image provenance](assets/README.md).*
+
+## Wiring: red +, black -, yellow A, green B
+
+| Wire colour | Connection |
+| --- | --- |
+| **Red** | **DC supply positive (+)** |
+| **Black** | **DC supply negative (-)** |
+| **Yellow** | **RS485 A** (A+ on the Waveshare adapter) |
+| **Green** | **RS485 B** (B- on the Waveshare adapter) |
+
+Confirmed by the owner and consistent with the V1.5 manual. Verify the device's
+supply rating before powering it; A/B are data lines, not power connections.
+
+![Manual wiring: red positive, black negative, yellow RS485 A, green RS485 B](assets/red-black-yellow-green-rs485-wiring-manual.jpg)
+
+*Original wiring illustration from V1.5, PDF page 5 (printed page 4).
+[Full electrical connection notes](docs/controller-guide.md#2-electrical-connection).*
 
 ![RS485 bench connection diagram](assets/rs485-wiring.svg)
 
@@ -68,7 +92,8 @@ front-panel result, and whether settings survived a power cycle. Remove serial
 numbers, location details, credentials and unrelated device logs. Do not post
 uncontrolled register-write sweeps as a recommended repair procedure.
 
-Documentation snapshot: **2026-10-14, Australia/Sydney**. Original diagrams are
-conceptual illustrations, not product photographs. See [asset credits](assets/README.md).
+Documentation snapshot: **2026-10-14, Australia/Sydney**. Product images are
+owner-supplied or extracted from the manual; original SVG diagrams are conceptual illustrations.
+See [asset credits](assets/README.md) for the distinction and source pages.
 Original repository material is covered by [LICENSE](LICENSE); third-party
 manuals, linked pages, images and trademarks retain their owners' rights.

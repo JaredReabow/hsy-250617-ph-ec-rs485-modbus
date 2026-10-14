@@ -29,3 +29,17 @@ Completed the r/esp32 rules acknowledgment before submission. Both post bodies,
 authors, flairs and GitHub links were verified through public logged-out views;
 neither showed a removal notice at the time checked. Retained exact post text
 and permalinks in docs/community-posts.md. No further hardware writes or flashes.
+
+## 2026-10-14: product naming, wiring and manual images
+
+At the owner's request, added the exact search wording "5 in 1 water quality
+sensor" prominently, alongside the existing PCB identifier. Highlighted the
+owner-confirmed four-wire map: red positive, black negative, yellow RS485 A,
+green RS485 B. Extracted three unchanged embedded JPEGs from V1.5 PDF pages
+1, 3 and 5 for product recognition, dimensions and wiring. Source attribution
+and third-party license exclusions are explicit; no bench-PCB photo or verified
+five-channel capability is implied. No firmware or controller-state changes.
+
+The owner then supplied a 750 x 750 product image. Included it unchanged as
+the README lead picture, with provenance and visible-variant caveats; retained
+the manual product images in the controller guide.

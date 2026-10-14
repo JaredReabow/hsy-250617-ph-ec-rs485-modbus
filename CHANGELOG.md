@@ -1,5 +1,13 @@
 # Changelog
 
+## Documentation 1.0.2 - 2026-10-14
+
+- Make "5 in 1 water quality sensor" prominent in the README and reference guide.
+- Add unchanged manual product images, enclosure dimensions and wiring illustration.
+- Use the owner's supplied product image as the README lead image.
+- Highlight owner-confirmed red +, black -, yellow RS485 A and green RS485 B wiring.
+- Credit exact source pages and distinguish manual imagery from bench-unit photos.
+
 ## Documentation 1.0.1 - 2026-10-14
 
 - Record the public repository and two community-specific Reddit publications.
