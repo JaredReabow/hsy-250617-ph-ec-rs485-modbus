@@ -1,5 +1,11 @@
 # Changelog
 
+## Documentation 1.0.3 - 2026-10-14
+
+- Add an AI-assisted black-box RS485 investigation case study with raw evidence.
+- Separate bounded probing from exhaustive brute force and retain negative results.
+- No firmware or controller-state changes.
+
 ## Documentation 1.0.2 - 2026-10-14
 
 - Make "5 in 1 water quality sensor" prominent in the README and reference guide.

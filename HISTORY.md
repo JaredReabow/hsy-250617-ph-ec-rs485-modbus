@@ -43,3 +43,11 @@ five-channel capability is implied. No firmware or controller-state changes.
 The owner then supplied a 750 x 750 product image. Included it unchanged as
 the README lead picture, with provenance and visible-variant caveats; retained
 the manual product images in the controller guide.
+
+## 2026-10-14: reverse-engineering case study
+
+Added a technical article explaining AI-assisted candidate probing, physical
+owner observations, the 401 ms late-response attribution trap, failed experiments,
+the observed reset and separately verified communications restoration. Explicitly
+does not claim exhaustive brute force, firmware extraction, multiple reset modes,
+or complete calibration/repair. No new controller commands or firmware flashes.

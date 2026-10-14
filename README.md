@@ -40,6 +40,8 @@ supply rating before powering it; A/B are data lines, not power connections.
   wiring, front-panel operation, RS485 frames, register map and limitations.
 - **[Reset and recovery](docs/reset-recovery.md)**: exact reset command,
   before/after evidence and restoration to ID 2 / 4800.
+- **[Black-box reverse-engineering case study](docs/reverse-engineering.md)**:
+  AI-assisted probing, the delayed-response trap, negative results and evidence.
 - **[Manuals and sources](manuals/README.md)**: V1.5 and BGT manual comparison,
   source links, contradictions and redistribution status.
 - **[ESP32-S3 bench firmware](firmware/README.md)**: Waveshare
