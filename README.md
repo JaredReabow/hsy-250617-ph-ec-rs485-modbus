@@ -49,7 +49,7 @@ supply rating before powering it; A/B are data lines, not power connections.
 - **[Bench evidence index](evidence/README.md)**: raw captures, including failed
   experiments and the explicitly unreliable early sweep.
 - **[Community discussions](docs/community-posts.md)**: published Reddit posts
-  and their original text, with links for follow-up evidence.
+  and their current text, with links for follow-up evidence.
 
 ## The useful finding
 

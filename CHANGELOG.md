@@ -4,6 +4,8 @@
 
 - Add an AI-assisted black-box RS485 investigation case study with raw evidence.
 - Separate bounded probing from exhaustive brute force and retain negative results.
+- Update the two existing Reddit posts and record two new technical publications.
+- Retain required r/esp32 flair; explain AI-assisted methodology in the new posts.
 - No firmware or controller-state changes.
 
 ## Documentation 1.0.2 - 2026-10-14

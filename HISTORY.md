@@ -51,3 +51,18 @@ owner observations, the 401 ms late-response attribution trap, failed experiment
 the observed reset and separately verified communications restoration. Explicitly
 does not claim exhaustive brute force, firmware extraction, multiple reset modes,
 or complete calibration/repair. No new controller commands or firmware flashes.
+
+## 2026-10-14: community edits and focused additional publication
+
+Removed optional AI sentences from the r/esp32 and r/diyelectronics post bodies
+at the owner's request; retained r/esp32's required AI Content flair. Updated
+the five-in-one wording and stale image availability statement. Verified both
+edited bodies in the browser, including ESP32 persistence after reload.
+
+Published a source-link case study in r/ReverseEngineering (1x5lkwz) and a distinct
+hardware-focused account in r/hardwarehacking (1x5llqh), after checking each
+community's rules. Both explicitly describe AI assistance and bounded probing.
+Confirmed authors, titles, links and available bodies through public logged-out
+views; no removal notice was visible at that check. Recorded current texts and
+permalinks in docs/community-posts.md. Seven offline harness checks passed before
+publication and were repeated before the publication-record push.
