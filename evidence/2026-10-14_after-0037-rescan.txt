@@ -1,0 +1,4 @@
+No Modbus reply on any probed baud/address combination.
+Bench v1.0.3: addr=2 baud=19200 device=not found polling=off frames=off ok=19 fail=2
+TX: 02 03 00 00 00 03 05 F8
+Poll failed: addr 2 @ 19200 baud (fail #3)

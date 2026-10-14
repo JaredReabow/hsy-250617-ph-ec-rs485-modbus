@@ -1,0 +1,87 @@
+COMMAND: i
+ature=0.0 C   [addr 2 @ 4800 baud, ok=16 fail=0]
+pH=5.80  EC=0 uS/cm  temperature=0.0 C   [addr 2 @ 4800 baud, ok=17 fail=0]
+pH=5.77  EC=0 uS/cm  temperature=0.0 C   [addr 2 @ 4800 baud, ok=18 fail=0]
+Poll failing; run 'b' to re-scan or check A/B wiring.
+Bench v1.0.3: addr=2 baud=4800 device=found polling=on frames=off ok=18 fail=2
+COMMAND: p
+Polling off
+COMMAND: x 500 GG
+RAW rejected: require discovered device, 100..15000 ms, 1..16 PDU bytes.
+COMMAND: x 500 03000000000000000000000000000000000000000000000000000000000000
+Command too long; discarded without execution.
+COMMAND: x 1000 0300000003
+RAW TX: 02 03 00 00 00 03 05 F8
+RAW RX @26 ms length=11 CRC=OK overflow=no
+RAW BYTES: 02 03 06 02 42 00 00 00 00 4C 68
+RAW done: 1 frame(s); no automatic retry.
+COMMAND: x 1000 0400000003
+RAW TX: 02 04 00 00 00 03 B0 38
+RAW RX @15 ms length=5 CRC=OK overflow=no
+RAW BYTES: 02 B8 01 63 C0
+RAW exception: function=0x38 code=0x01
+RAW done: 1 frame(s); no automatic retry.
+COMMAND: x 1000 11
+RAW TX: 02 11 C0 DC
+RAW RX @13 ms length=5 CRC=OK overflow=no
+RAW BYTES: 02 B8 01 63 C0
+RAW exception: function=0x38 code=0x01
+RAW done: 1 frame(s); no automatic retry.
+COMMAND: x 1000 2B0E0100
+RAW TX: 02 2B 0E 01 00 34 77
+RAW RX @16 ms length=5 CRC=OK overflow=no
+RAW BYTES: 02 B8 01 63 C0
+RAW exception: function=0x38 code=0x01
+RAW done: 1 frame(s); no automatic retry.
+COMMAND: x 1000 07
+RAW TX: 02 07 41 12
+RAW RX @25 ms length=5 CRC=OK overflow=no
+RAW BYTES: 02 B8 01 63 C0
+RAW exception: function=0x38 code=0x01
+RAW done: 1 frame(s); no automatic retry.
+COMMAND: x 1000 0B
+RAW TX: 02 0B 41 17
+RAW RX @14 ms length=5 CRC=OK overflow=no
+RAW BYTES: 02 B8 01 63 C0
+RAW exception: function=0x38 code=0x01
+RAW done: 1 frame(s); no automatic retry.
+COMMAND: x 1000 080000A537
+RAW TX: 02 08 00 00 A5 37 DA BE
+RAW RX @135 ms length=5 CRC=OK overflow=no
+RAW BYTES: 02 BE 01 60 60
+RAW exception: function=0x3E code=0x01
+RAW done: 1 frame(s); no automatic retry.
+COMMAND: x 1000 0800010000
+RAW TX: 02 08 00 01 00 00 B1 F8
+RAW RX @15 ms length=5 CRC=OK overflow=no
+RAW BYTES: 02 F8 01 52 00
+RAW exception: function=0x78 code=0x01
+RAW done: 1 frame(s); no automatic retry.
+COMMAND: g a0 1
+TX: 02 03 00 A0 00 01 84 1B
+RX: 02 03 02 00 00 FC
+Read failed.
+COMMAND: g a1 1
+TX: 02 03 00 A1 00 01 D5 DB
+RX: 02 03 02 27 10 E6 78
+  reg 0x00A1 = 10000 (0x2710)
+COMMAND: g a2 1
+TX: 02 03 00 A2 00 01 25 DB
+RX: 02 03 02 00 00 FC 44
+  reg 0x00A2 =     0 (0x0000)
+COMMAND: g a3 1
+TX: 02 03 00 A3 00 01 74 1B
+RX: 02 03 02 00 00 FC 44
+  reg 0x00A3 =     0 (0x0000)
+COMMAND: g a4 1
+TX: 02 03 00 A4 00 01 C5 DA
+RX: 02 03 02 B1 88 88 72
+  reg 0x00A4 = 45448 (0xB188)
+COMMAND: g a4 1
+TX: 02 03 00 A4 00 01 C5 DA
+RX: 02 03 02 B1 88 88 72
+  reg 0x00A4 = 45448 (0xB188)
+COMMAND: r
+TX: 02 03 00 00 00 03 05 F8
+RX: 02 03 06 02 42 00 00 00 00 4C 68
+pH=5.78  EC=0 uS/cm  temperature=0.0 C   [addr 2 @ 4800 baud, ok=19 fail=2]

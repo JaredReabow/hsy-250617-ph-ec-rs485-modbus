@@ -1,0 +1,40 @@
+SAMPLE 1
+TX: 02 03 00 00 00 03 05 F8
+RX: 02 03 06 02 43 00 00 00 00 71 A8
+pH=5.79  EC=0 uS/cm  temperature=0.0 C   [addr 2 @ 4800 baud, ok=59 fail=0]
+SAMPLE 2
+TX: 02 03 00 00 00 03 05 F8
+RX: 02 03 06 02 45 00 00 00 00 F9 A8
+pH=5.81  EC=0 uS/cm  temperature=0.0 C   [addr 2 @ 4800 baud, ok=60 fail=0]
+SAMPLE 3
+TX: 02 03 00 00 00 03 05 F8
+RX: 02 03 06 02 42 00 00 00 00 4C 68
+pH=5.78  EC=0 uS/cm  temperature=0.0 C   [addr 2 @ 4800 baud, ok=61 fail=0]
+SAMPLE 4
+TX: 02 03 00 00 00 03 05 F8
+RX: 02 03 06 02 42 00 00 00 00 4C 68
+pH=5.78  EC=0 uS/cm  temperature=0.0 C   [addr 2 @ 4800 baud, ok=62 fail=0]
+SAMPLE 5
+TX: 02 03 00 00 00 03 05 F8
+RX: 02 03 06 02 43 00 00 00 00 71 A8
+pH=5.79  EC=0 uS/cm  temperature=0.0 C   [addr 2 @ 4800 baud, ok=63 fail=0]
+SAMPLE 6
+TX: 02 03 00 00 00 03 05 F8
+RX: 02 03 06 02 42 00 00 00 00 4C 68
+pH=5.78  EC=0 uS/cm  temperature=0.0 C   [addr 2 @ 4800 baud, ok=64 fail=0]
+SAMPLE 7
+TX: 02 03 00 00 00 03 05 F8
+RX: 02 03 06 02 43 00 00 00 00 71 A8
+pH=5.79  EC=0 uS/cm  temperature=0.0 C   [addr 2 @ 4800 baud, ok=65 fail=0]
+SAMPLE 8
+TX: 02 03 00 00 00 03 05 F8
+RX: 02 03 06 02 42 00 00 00 00 4C 68
+pH=5.78  EC=0 uS/cm  temperature=0.0 C   [addr 2 @ 4800 baud, ok=66 fail=0]
+SAMPLE 9
+TX: 02 03 00 00 00 03 05 F8
+RX: 02 03 06 02 42 00 00 00 00 4C 68
+pH=5.78  EC=0 uS/cm  temperature=0.0 C   [addr 2 @ 4800 baud, ok=67 fail=0]
+SAMPLE 10
+TX: 02 03 00 00 00 03 05 F8
+RX: 02 03 06 02 42 00 00 00 00 4C 68
+pH=5.78  EC=0 uS/cm  temperature=0.0 C   [addr 2 @ 4800 baud, ok=68 fail=0]

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
+  <title id="title">HSY pH controller RS485 bench wiring</title>
+  <desc id="desc">Conceptual diagram: USB host to Waveshare isolated RS485 adapter, yellow A plus and green B minus to the controller, and a separate correctly rated DC supply for the controller.</desc>
+  <rect width="1200" height="500" fill="#f5f7f8"/>
+  <g font-family="Arial, sans-serif" fill="#17252c">
+    <text x="36" y="46" font-size="26" font-weight="700">HSY-250617-v2.3 | RS485 bench connection</text>
+    <text x="36" y="77" font-size="16">Conceptual wiring, not a product photograph or a substitute for terminal labels</text>
+    <rect x="36" y="146" width="170" height="130" rx="6" fill="#fff" stroke="#87959c"/>
+    <text x="62" y="184" font-size="22" font-weight="700">USB host</text>
+    <text x="62" y="216" font-size="16">115200 console</text>
+    <text x="62" y="244" font-size="16">Bench commands</text>
+    <path d="M206 211 H284" stroke="#53636d" stroke-width="5"/>
+    <text x="224" y="198" font-size="15">USB</text>
+    <rect x="284" y="126" width="342" height="204" rx="6" fill="#fff" stroke="#128073" stroke-width="2"/>
+    <text x="307" y="163" font-size="20" font-weight="700">Waveshare ESP32-S3-Relay-1CH</text>
+    <text x="307" y="196" font-size="17">UART1: TX 17 / RX 18 / DE 21</text>
+    <text x="307" y="228" font-size="17">RS485 transceiver on board</text>
+    <text x="307" y="261" font-size="16">Hardware half-duplex</text>
+    <text x="307" y="300" font-size="16">Relay unused; control loads isolated</text>
+    <path d="M626 210 H831" stroke="#be8a00" stroke-width="5"/>
+    <path d="M626 271 H831" stroke="#19714b" stroke-width="5"/>
+    <text x="650" y="196" font-size="17">Yellow: A+</text>
+    <text x="650" y="257" font-size="17">Green: B-</text>
+    <rect x="831" y="126" width="333" height="204" rx="6" fill="#fff" stroke="#87959c"/>
+    <text x="855" y="163" font-size="21" font-weight="700">pH / EC controller</text>
+    <text x="855" y="195" font-size="18">HSY-250617-v2.3</text>
+    <text x="855" y="227" font-size="16">POET-251022-V4.2 tested</text>
+    <text x="855" y="268" font-size="17">Default: ID 1 / 9600 / 8N1</text>
+    <text x="855" y="300" font-size="17">Restored: ID 2 / 4800 / 8N1</text>
+    <path d="M1020 330 V365" stroke="#ba2838" stroke-width="5"/>
+    <path d="M1115 330 V365" stroke="#24292d" stroke-width="5"/>
+    <text x="917" y="389" font-size="16">Red + / black supply return</text>
+    <text x="841" y="416" font-size="16">External DC supply</text>
+    <text x="841" y="442" font-size="16">Verify device label; manual: 7-24 V DC</text>
+    <text x="36" y="383" font-size="18" font-weight="700">Before wiring or writing registers</text>
+    <text x="36" y="413" font-size="17">Power down to rewire. Never connect RS485 A/B to ESP32 GPIO.</text>
+    <text x="36" y="442" font-size="17">Follow adapter isolation, grounding, biasing and termination requirements.</text>
+    <text x="36" y="478" font-size="14" fill="#52646d">Independent bench reference | 2026-10-14 | Original illustration</text>
+  </g>
+</svg>

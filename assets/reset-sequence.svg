@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
+  <title id="title">Observed settings reset and separate communications restoration</title>
+  <desc id="desc">Before reset pH was about 5.78 at ID 2 and 4800. Writing register 0x0037 value 1 restored ID 1 and 9600 and pH 8.84 to 8.85. Later address and baud writes restored ID 2 at 4800; final pH was 9.29 to 9.30 with intervening calibration state change not fully characterized.</desc>
+  <rect width="1200" height="460" fill="#f5f7f8"/>
+  <g font-family="Arial, sans-serif" fill="#17252c">
+    <text x="36" y="46" font-size="26" font-weight="700">What changed on the bench</text>
+    <text x="36" y="76" font-size="16">One HSY-250617-v2.3 / POET-251022-V4.2 unit; probe remained in user-identified pH 9.18 buffer</text>
+    <rect x="36" y="119" width="315" height="177" rx="6" fill="#fff" stroke="#9b4454" stroke-width="2"/>
+    <text x="57" y="155" font-size="19" font-weight="700">1. Before reset</text>
+    <text x="57" y="197" font-size="30" font-weight="700">pH ~5.78</text>
+    <text x="57" y="231" font-size="18">ID 2 / 4800 baud</text>
+    <text x="57" y="269" font-size="16">Front-panel 9.18 calibration failed</text>
+    <path d="M360 208 H416 M405 198 L416 208 L405 218" fill="none" stroke="#566a74" stroke-width="3"/>
+    <rect x="428" y="119" width="322" height="177" rx="6" fill="#fff" stroke="#178176" stroke-width="2"/>
+    <text x="450" y="155" font-size="19" font-weight="700">2. After 0x0037 = 1</text>
+    <text x="450" y="197" font-size="30" font-weight="700">pH 8.84-8.85</text>
+    <text x="450" y="231" font-size="18">ID 1 / 9600 baud</text>
+    <text x="450" y="269" font-size="16">Calibration-related registers changed</text>
+    <path d="M762 208 H817 M806 198 L817 208 L806 218" fill="none" stroke="#566a74" stroke-width="3"/>
+    <rect x="829" y="119" width="335" height="177" rx="6" fill="#fff" stroke="#526b98" stroke-width="2"/>
+    <text x="851" y="155" font-size="19" font-weight="700">3. Later: restore communications</text>
+    <text x="851" y="197" font-size="27" font-weight="700">ID 2 / 4800 baud</text>
+    <text x="851" y="232" font-size="17">0x0030 = 2; 0x0031 = 0x4800</text>
+    <text x="851" y="268" font-size="16">Verified reads: pH 9.30 / 9.29 / 9.30</text>
+    <text x="36" y="340" font-size="18" font-weight="700">Important limits</text>
+    <text x="36" y="370" font-size="17">The later pH is not an immediate reset result: calibration state had changed between captures.</text>
+    <text x="36" y="398" font-size="17">Full calibration accuracy, reset scope, persistence after power cycling and long-term repair remain unverified.</text>
+    <text x="36" y="439" font-size="14" fill="#52646d">Disconnect dosing/control loads before reset. Original illustration based on published raw serial evidence.</text>
+  </g>
+</svg>

@@ -1,0 +1,629 @@
+COMMAND: g 80 1
+TX: 02 03 00 80 00 01 85 D1
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x0080
+Read failed.
+COMMAND: g 81 1
+TX: 02 03 00 81 00 01 D4 11
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x0081
+Read failed.
+COMMAND: g 82 1
+TX: 02 03 00 82 00 01 24 11
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x0082
+Read failed.
+COMMAND: g 83 1
+TX: 02 03 00 83 00 01 75 D1
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x0083
+Read failed.
+COMMAND: g 84 1
+TX: 02 03 00 84 00 01 C4 10
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x0084
+Read failed.
+COMMAND: g 85 1
+TX: 02 03 00 85 00 01 95 D0
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x0085
+Read failed.
+COMMAND: g 86 1
+TX: 02 03 00 86 00 01 65 D0
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x0086
+Read failed.
+COMMAND: g 87 1
+TX: 02 03 00 87 00 01 34 10
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x0087
+Read failed.
+COMMAND: g 88 1
+TX: 02 03 00 88 00 01 04 13
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x0088
+Read failed.
+COMMAND: g 89 1
+TX: 02 03 00 89 00 01 55 D3
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x0089
+Read failed.
+COMMAND: g 8a 1
+TX: 02 03 00 8A 00 01 A5 D3
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x008A
+Read failed.
+COMMAND: g 8b 1
+TX: 02 03 00 8B 00 01 F4 13
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x008B
+Read failed.
+COMMAND: g 8c 1
+TX: 02 03 00 8C 00 01 45 D2
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x008C
+Read failed.
+COMMAND: g 8d 1
+TX: 02 03 00 8D 00 01 14 12
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x008D
+Read failed.
+COMMAND: g 8e 1
+TX: 02 03 00 8E 00 01 E4 12
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x008E
+Read failed.
+COMMAND: g 8f 1
+TX: 02 03 00 8F 00 01 B5 D2
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x008F
+Read failed.
+COMMAND: g 90 1
+TX: 02 03 00 90 00 01 84 14
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x0090
+Read failed.
+COMMAND: g 91 1
+TX: 02 03 00 91 00 01 D5 D4
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x0091
+Read failed.
+COMMAND: g 92 1
+TX: 02 03 00 92 00 01 25 D4
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x0092
+Read failed.
+COMMAND: g 93 1
+TX: 02 03 00 93 00 01 74 14
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x0093
+Read failed.
+COMMAND: g 94 1
+TX: 02 03 00 94 00 01 C5 D5
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x0094
+Read failed.
+COMMAND: g 95 1
+TX: 02 03 00 95 00 01 94 15
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x0095
+Read failed.
+COMMAND: g 96 1
+TX: 02 03 00 96 00 01 64 15
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x0096
+Read failed.
+COMMAND: g 97 1
+TX: 02 03 00 97 00 01 35 D5
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x0097
+Read failed.
+COMMAND: g 98 1
+TX: 02 03 00 98 00 01 05 D6
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x0098
+Read failed.
+COMMAND: g 99 1
+TX: 02 03 00 99 00 01 54 16
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x0099
+Read failed.
+COMMAND: g 9a 1
+TX: 02 03 00 9A 00 01 A4 16
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x009A
+Read failed.
+COMMAND: g 9b 1
+TX: 02 03 00 9B 00 01 F5 D6
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x009B
+Read failed.
+COMMAND: g 9c 1
+TX: 02 03 00 9C 00 01 44 17
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x009C
+Read failed.
+COMMAND: g 9d 1
+TX: 02 03 00 9D 00 01 15 D7
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x009D
+Read failed.
+COMMAND: g 9e 1
+TX: 02 03 00 9E 00 01 E5 D7
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x009E
+Read failed.
+COMMAND: g 9f 1
+TX: 02 03 00 9F 00 01 B4 17
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x009F
+Read failed.
+COMMAND: g a0 1
+TX: 02 03 00 A0 00 01 84 1B
+RX: 02 03 02 00 00 FC 44
+  reg 0x00A0 =     0 (0x0000)
+COMMAND: g a1 1
+TX: 02 03 00 A1 00 01 D5 DB
+RX: 02 03 02 27 10 E6 78
+  reg 0x00A1 = 10000 (0x2710)
+COMMAND: g a2 1
+TX: 02 03 00 A2 00 01 25 DB
+RX: 02 03 02 00 00 FC 44
+  reg 0x00A2 =     0 (0x0000)
+COMMAND: g a3 1
+TX: 02 03 00 A3 00 01 74 1B
+RX: 02 03 02 00 00 FC 44
+  reg 0x00A3 =     0 (0x0000)
+COMMAND: g a4 1
+TX: 02 03 00 A4 00 01 C5 DA
+RX: 02 03 02 B1 88 88 72
+  reg 0x00A4 = 45448 (0xB188)
+COMMAND: g a5 1
+TX: 02 03 00 A5 00 01 94 1A
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00A5
+Read failed.
+COMMAND: g a6 1
+TX: 02 03 00 A6 00 01 64 1A
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00A6
+Read failed.
+COMMAND: g a7 1
+TX: 02 03 00 A7 00 01 35 DA
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00A7
+Read failed.
+COMMAND: g a8 1
+TX: 02 03 00 A8 00 01 05 D9
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00A8
+Read failed.
+COMMAND: g a9 1
+TX: 02 03 00 A9 00 01 54 19
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00A9
+Read failed.
+COMMAND: g aa 1
+TX: 02 03 00 AA 00 01 A4 19
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00AA
+Read failed.
+COMMAND: g ab 1
+TX: 02 03 00 AB 00 01 F5 D9
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00AB
+Read failed.
+COMMAND: g ac 1
+TX: 02 03 00 AC 00 01 44 18
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00AC
+Read failed.
+COMMAND: g ad 1
+TX: 02 03 00 AD 00 01 15 D8
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00AD
+Read failed.
+COMMAND: g ae 1
+TX: 02 03 00 AE 00 01 E5 D8
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00AE
+Read failed.
+COMMAND: g af 1
+TX: 02 03 00 AF 00 01 B4 18
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00AF
+Read failed.
+COMMAND: g b0 1
+TX: 02 03 00 B0 00 01 85 DE
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00B0
+Read failed.
+COMMAND: g b1 1
+TX: 02 03 00 B1 00 01 D4 1E
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00B1
+Read failed.
+COMMAND: g b2 1
+TX: 02 03 00 B2 00 01 24 1E
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00B2
+Read failed.
+COMMAND: g b3 1
+TX: 02 03 00 B3 00 01 75 DE
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00B3
+Read failed.
+COMMAND: g b4 1
+TX: 02 03 00 B4 00 01 C4 1F
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00B4
+Read failed.
+COMMAND: g b5 1
+TX: 02 03 00 B5 00 01 95 DF
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00B5
+Read failed.
+COMMAND: g b6 1
+TX: 02 03 00 B6 00 01 65 DF
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00B6
+Read failed.
+COMMAND: g b7 1
+TX: 02 03 00 B7 00 01 34 1F
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00B7
+Read failed.
+COMMAND: g b8 1
+TX: 02 03 00 B8 00 01 04 1C
+Read failed.
+COMMAND: g b9 1
+TX: 02 03 00 B9 00 01 55 DC
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00B9
+Read failed.
+COMMAND: g ba 1
+TX: 02 03 00 BA 00 01 A5 DC
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00BA
+Read failed.
+COMMAND: g bb 1
+TX: 02 03 00 BB 00 01 F4 1C
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00BB
+Read failed.
+COMMAND: g bc 1
+TX: 02 03 00 BC 00 01 45 DD
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00BC
+Read failed.
+COMMAND: g bd 1
+TX: 02 03 00 BD 00 01 14 1D
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00BD
+Read failed.
+COMMAND: g be 1
+TX: 02 03 00 BE 00 01 E4 1D
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00BE
+Read failed.
+COMMAND: g bf 1
+TX: 02 03 00 BF 00 01 B5 DD
+Read failed.
+COMMAND: g c0 1
+TX: 02 03 00 C0 00 01 84 05
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00C0
+Read failed.
+COMMAND: g c1 1
+TX: 02 03 00 C1 00 01 D5 C5
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00C1
+Read failed.
+COMMAND: g c2 1
+TX: 02 03 00 C2 00 01 25 C5
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00C2
+Read failed.
+COMMAND: g c3 1
+TX: 02 03 00 C3 00 01 74 05
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00C3
+Read failed.
+COMMAND: g c4 1
+TX: 02 03 00 C4 00 01 C5 C4
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00C4
+Read failed.
+COMMAND: g c5 1
+TX: 02 03 00 C5 00 01 94 04
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00C5
+Read failed.
+COMMAND: g c6 1
+TX: 02 03 00 C6 00 01 64 04
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00C6
+Read failed.
+COMMAND: g c7 1
+TX: 02 03 00 C7 00 01 35 C4
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00C7
+Read failed.
+COMMAND: g c8 1
+TX: 02 03 00 C8 00 01 05 C7
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00C8
+Read failed.
+COMMAND: g c9 1
+TX: 02 03 00 C9 00 01 54 07
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00C9
+Read failed.
+COMMAND: g ca 1
+TX: 02 03 00 CA 00 01 A4 07
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00CA
+Read failed.
+COMMAND: g cb 1
+TX: 02 03 00 CB 00 01 F5 C7
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00CB
+Read failed.
+COMMAND: g cc 1
+TX: 02 03 00 CC 00 01 44 06
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00CC
+Read failed.
+COMMAND: g cd 1
+TX: 02 03 00 CD 00 01 15 C6
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00CD
+Read failed.
+COMMAND: g ce 1
+TX: 02 03 00 CE 00 01 E5 C6
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00CE
+Read failed.
+COMMAND: g cf 1
+TX: 02 03 00 CF 00 01 B4 06
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00CF
+Read failed.
+COMMAND: g d0 1
+TX: 02 03 00 D0 00 01 85 C0
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00D0
+Read failed.
+COMMAND: g d1 1
+TX: 02 03 00 D1 00 01 D4 00
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00D1
+Read failed.
+COMMAND: g d2 1
+TX: 02 03 00 D2 00 01 24 00
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00D2
+Read failed.
+COMMAND: g d3 1
+TX: 02 03 00 D3 00 01 75 C0
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00D3
+Read failed.
+COMMAND: g d4 1
+TX: 02 03 00 D4 00 01 C4 01
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00D4
+Read failed.
+COMMAND: g d5 1
+TX: 02 03 00 D5 00 01 95 C1
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00D5
+Read failed.
+COMMAND: g d6 1
+TX: 02 03 00 D6 00 01 65 C1
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00D6
+Read failed.
+COMMAND: g d7 1
+TX: 02 03 00 D7 00 01 34 01
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00D7
+Read failed.
+COMMAND: g d8 1
+TX: 02 03 00 D8 00 01 04 02
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00D8
+Read failed.
+COMMAND: g d9 1
+TX: 02 03 00 D9 00 01 55 C2
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00D9
+Read failed.
+COMMAND: g da 1
+TX: 02 03 00 DA 00 01 A5 C2
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00DA
+Read failed.
+COMMAND: g db 1
+TX: 02 03 00 DB 00 01 F4 02
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00DB
+Read failed.
+COMMAND: g dc 1
+TX: 02 03 00 DC 00 01 45 C3
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00DC
+Read failed.
+COMMAND: g dd 1
+TX: 02 03 00 DD 00 01 14 03
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00DD
+Read failed.
+COMMAND: g de 1
+TX: 02 03 00 DE 00 01 E4 03
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00DE
+Read failed.
+COMMAND: g df 1
+TX: 02 03 00 DF 00 01 B5 C3
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00DF
+Read failed.
+COMMAND: g e0 1
+TX: 02 03 00 E0 00 01 85 CF
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00E0
+Read failed.
+COMMAND: g e1 1
+TX: 02 03 00 E1 00 01 D4 0F
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00E1
+Read failed.
+COMMAND: g e2 1
+TX: 02 03 00 E2 00 01 24 0F
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00E2
+Read failed.
+COMMAND: g e3 1
+TX: 02 03 00 E3 00 01 75 CF
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00E3
+Read failed.
+COMMAND: g e4 1
+TX: 02 03 00 E4 00 01 C4 0E
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00E4
+Read failed.
+COMMAND: g e5 1
+TX: 02 03 00 E5 00 01 95 CE
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00E5
+Read failed.
+COMMAND: g e6 1
+TX: 02 03 00 E6 00 01 65 CE
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00E6
+Read failed.
+COMMAND: g e7 1
+TX: 02 03 00 E7 00 01 34 0E
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00E7
+Read failed.
+COMMAND: g e8 1
+TX: 02 03 00 E8 00 01 04 0D
+Read failed.
+COMMAND: g e9 1
+TX: 02 03 00 E9 00 01 55 CD
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00E9
+Read failed.
+COMMAND: g ea 1
+TX: 02 03 00 EA 00 01 A5 CD
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00EA
+Read failed.
+COMMAND: g eb 1
+TX: 02 03 00 EB 00 01 F4 0D
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00EB
+Read failed.
+COMMAND: g ec 1
+TX: 02 03 00 EC 00 01 45 CC
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00EC
+Read failed.
+COMMAND: g ed 1
+TX: 02 03 00 ED 00 01 14 0C
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00ED
+Read failed.
+COMMAND: g ee 1
+TX: 02 03 00 EE 00 01 E4 0C
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00EE
+Read failed.
+COMMAND: g ef 1
+TX: 02 03 00 EF 00 01 B5 CC
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00EF
+Read failed.
+COMMAND: g f0 1
+TX: 02 03 00 F0 00 01 84 0A
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00F0
+Read failed.
+COMMAND: g f1 1
+TX: 02 03 00 F1 00 01 D5 CA
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00F1
+Read failed.
+COMMAND: g f2 1
+TX: 02 03 00 F2 00 01 25 CA
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00F2
+Read failed.
+COMMAND: g f3 1
+TX: 02 03 00 F3 00 01 74 0A
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00F3
+Read failed.
+COMMAND: g f4 1
+TX: 02 03 00 F4 00 01 C5 CB
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00F4
+Read failed.
+COMMAND: g f5 1
+TX: 02 03 00 F5 00 01 94 0B
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00F5
+Read failed.
+COMMAND: g f6 1
+TX: 02 03 00 F6 00 01 64 0B
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00F6
+Read failed.
+COMMAND: g f7 1
+TX: 02 03 00 F7 00 01 35 CB
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00F7
+Read failed.
+COMMAND: g f8 1
+TX: 02 03 00 F8 00 01 05 C8
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00F8
+Read failed.
+COMMAND: g f9 1
+TX: 02 03 00 F9 00 01 54 08
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00F9
+Read failed.
+COMMAND: g fa 1
+TX: 02 03 00 FA 00 01 A4 08
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00FA
+Read failed.
+COMMAND: g fb 1
+TX: 02 03 00 FB 00 01 F5 C8
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00FB
+Read failed.
+COMMAND: g fc 1
+TX: 02 03 00 FC 00 01 44 09
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00FC
+Read failed.
+COMMAND: g fd 1
+TX: 02 03 00 FD 00 01 15 C9
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00FD
+Read failed.
+COMMAND: g fe 1
+TX: 02 03 00 FE 00 01 E5 C9
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00FE
+Read failed.
+COMMAND: g ff 1
+TX: 02 03 00 FF 00 01 B4 09
+RX: 02 83 02 30 F1
+Modbus exception 0x02 from addr 2 reg 0x00FF
+Read failed.

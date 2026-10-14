@@ -1,0 +1,153 @@
+Read-only post-reset capture 2026-10-14T16:07:10.112298
+Bench v1.0.3: addr=1 baud=9600 device=found polling=off frames=off ok=20 fail=3
+
+COMMAND: x 700 0300300001
+RAW TX: 01 03 00 30 00 01 84 05
+RAW RX @9 ms length=7 CRC=OK overflow=no
+RAW BYTES: 01 03 02 00 01 79 84
+RAW done: 1 frame(s); no automatic retry.
+COMMAND: x 700 0300310001
+RAW TX: 01 03 00 31 00 01 D5 C5
+RAW RX @9 ms length=7 CRC=OK overflow=no
+RAW BYTES: 01 03 02 96 00 D7 E4
+RAW done: 1 frame(s); no automatic retry.
+COMMAND: x 700 0300320001
+RAW TX: 01 03 00 32 00 01 25 C5
+RAW RX @9 ms length=7 CRC=OK overflow=no
+RAW BYTES: 01 03 02 00 00 B8 44
+RAW done: 1 frame(s); no automatic retry.
+COMMAND: x 700 0300330001
+RAW TX: 01 03 00 33 00 01 74 05
+RAW RX @8 ms length=7 CRC=OK overflow=no
+RAW BYTES: 01 03 02 00 00 B8 44
+RAW done: 1 frame(s); no automatic retry.
+COMMAND: x 700 0300370001
+RAW TX: 01 03 00 37 00 01 35 C4
+RAW RX @18 ms length=7 CRC=OK overflow=no
+RAW BYTES: 01 03 02 00 00 B8 44
+RAW done: 1 frame(s); no automatic retry.
+COMMAND: x 700 03003B0001
+RAW TX: 01 03 00 3B 00 01 F5 C7
+RAW RX @17 ms length=7 CRC=OK overflow=no
+RAW BYTES: 01 03 02 00 00 B8 44
+RAW done: 1 frame(s); no automatic retry.
+COMMAND: x 700 0300600001
+RAW TX: 01 03 00 60 00 01 84 14
+RAW RX @17 ms length=7 CRC=OK overflow=no
+RAW BYTES: 01 03 02 00 01 79 84
+RAW done: 1 frame(s); no automatic retry.
+COMMAND: x 700 0300610001
+RAW TX: 01 03 00 61 00 01 D5 D4
+RAW RX @17 ms length=7 CRC=OK overflow=no
+RAW BYTES: 01 03 02 00 FA 38 07
+RAW done: 1 frame(s); no automatic retry.
+COMMAND: x 700 0300620001
+RAW TX: 01 03 00 62 00 01 25 D4
+RAW RX @16 ms length=7 CRC=OK overflow=no
+RAW BYTES: 01 03 02 AA AA 46 9B
+RAW done: 1 frame(s); no automatic retry.
+COMMAND: x 700 0300630001
+RAW TX: 01 03 00 63 00 01 74 14
+RAW RX @16 ms length=7 CRC=OK overflow=no
+RAW BYTES: 01 03 02 00 00 B8 44
+RAW done: 1 frame(s); no automatic retry.
+COMMAND: x 700 0300640001
+RAW TX: 01 03 00 64 00 01 C5 D5
+RAW RX @15 ms length=7 CRC=OK overflow=no
+RAW BYTES: 01 03 02 00 00 B8 44
+RAW done: 1 frame(s); no automatic retry.
+COMMAND: x 700 0300650001
+RAW TX: 01 03 00 65 00 01 94 15
+RAW RX @15 ms length=7 CRC=OK overflow=no
+RAW BYTES: 01 03 02 00 00 B8 44
+RAW done: 1 frame(s); no automatic retry.
+COMMAND: x 700 0300660001
+RAW TX: 01 03 00 66 00 01 64 15
+RAW RX @15 ms length=7 CRC=OK overflow=no
+RAW BYTES: 01 03 02 00 00 B8 44
+RAW done: 1 frame(s); no automatic retry.
+COMMAND: x 700 0300670001
+RAW TX: 01 03 00 67 00 01 35 D5
+RAW RX @14 ms length=7 CRC=OK overflow=no
+RAW BYTES: 01 03 02 01 3D 78 05
+RAW done: 1 frame(s); no automatic retry.
+COMMAND: x 700 0300680001
+RAW TX: 01 03 00 68 00 01 05 D6
+RAW RX @14 ms length=7 CRC=OK overflow=no
+RAW BYTES: 01 03 02 06 1D 7B ED
+RAW done: 1 frame(s); no automatic retry.
+COMMAND: x 700 0300690001
+RAW TX: 01 03 00 69 00 01 54 16
+RAW RX @13 ms length=7 CRC=OK overflow=no
+RAW BYTES: 01 03 02 0A FF FE A4
+RAW done: 1 frame(s); no automatic retry.
+COMMAND: x 700 03006A0001
+RAW TX: 01 03 00 6A 00 01 A4 16
+RAW RX @13 ms length=7 CRC=OK overflow=no
+RAW BYTES: 01 03 02 00 00 B8 44
+RAW done: 1 frame(s); no automatic retry.
+COMMAND: x 700 03006B0001
+RAW TX: 01 03 00 6B 00 01 F5 D6
+RAW RX @12 ms length=7 CRC=OK overflow=no
+RAW BYTES: 01 03 02 00 B1 78 30
+RAW done: 1 frame(s); no automatic retry.
+COMMAND: x 700 03006C0001
+RAW TX: 01 03 00 6C 00 01 44 17
+RAW RX @12 ms length=7 CRC=OK overflow=no
+RAW BYTES: 01 03 02 00 08 B9 82
+RAW done: 1 frame(s); no automatic retry.
+COMMAND: x 700 03006D0001
+RAW TX: 01 03 00 6D 00 01 15 D7
+RAW RX @12 ms length=7 CRC=OK overflow=no
+RAW BYTES: 01 03 02 00 81 78 24
+RAW done: 1 frame(s); no automatic retry.
+COMMAND: x 700 03006E0001
+RAW TX: 01 03 00 6E 00 01 E5 D7
+RAW RX @11 ms length=7 CRC=OK overflow=no
+RAW BYTES: 01 03 02 00 01 79 84
+RAW done: 1 frame(s); no automatic retry.
+COMMAND: x 700 03006F0001
+RAW TX: 01 03 00 6F 00 01 B4 17
+RAW RX @11 ms length=7 CRC=OK overflow=no
+RAW BYTES: 01 03 02 00 00 B8 44
+RAW done: 1 frame(s); no automatic retry.
+COMMAND: x 700 0300A00001
+RAW TX: 01 03 00 A0 00 01 84 28
+RAW RX @11 ms length=7 CRC=OK overflow=no
+RAW BYTES: 01 03 02 00 00 B8 44
+RAW done: 1 frame(s); no automatic retry.
+COMMAND: x 700 0300A10001
+RAW TX: 01 03 00 A1 00 01 D5 E8
+RAW RX @30 ms length=7 CRC=OK overflow=no
+RAW BYTES: 01 03 02 27 10 A2 78
+RAW done: 1 frame(s); no automatic retry.
+COMMAND: x 700 0300A20001
+RAW TX: 01 03 00 A2 00 01 25 E8
+RAW RX @50 ms length=7 CRC=OK overflow=no
+RAW BYTES: 01 03 02 00 00 B8 44
+RAW done: 1 frame(s); no automatic retry.
+COMMAND: x 700 0300A30001
+RAW TX: 01 03 00 A3 00 01 74 28
+RAW RX @69 ms length=7 CRC=OK overflow=no
+RAW BYTES: 01 03 02 00 00 B8 44
+RAW done: 1 frame(s); no automatic retry.
+COMMAND: x 700 0300A40001
+RAW TX: 01 03 00 A4 00 01 C5 E9
+RAW RX @89 ms length=7 CRC=OK overflow=no
+RAW BYTES: 01 03 02 00 00 B8 44
+RAW done: 1 frame(s); no automatic retry.
+COMMAND: x 700 0300000001
+RAW TX: 01 03 00 00 00 01 84 0A
+RAW RX @108 ms length=7 CRC=OK overflow=no
+RAW BYTES: 01 03 02 03 75 79 53
+RAW done: 1 frame(s); no automatic retry.
+COMMAND: x 700 0300000001
+RAW TX: 01 03 00 00 00 01 84 0A
+RAW RX @128 ms length=7 CRC=OK overflow=no
+RAW BYTES: 01 03 02 03 74 B8 93
+RAW done: 1 frame(s); no automatic retry.
+COMMAND: x 700 0300000001
+RAW TX: 01 03 00 00 00 01 84 0A
+RAW RX @147 ms length=7 CRC=OK overflow=no
+RAW BYTES: 01 03 02 03 74 B8 93
+RAW done: 1 frame(s); no automatic retry.

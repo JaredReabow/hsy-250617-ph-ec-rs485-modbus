@@ -1,0 +1,36 @@
+COMMAND: x 12000 06006a0001
+RAW TX: 02 06 00 6A 00 01 68 25
+RAW RX @274 ms length=5 CRC=OK overflow=no
+RAW BYTES: 02 86 03 F2 61
+RAW exception: function=0x06 code=0x03
+RAW done: 1 frame(s); no automatic retry.
+COMMAND: x 500 0300000001
+RAW TX: 02 03 00 00 00 01 84 39
+RAW RX @42 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 02 43 BC D5
+RAW done: 1 frame(s); no automatic retry.
+COMMAND: x 500 0300620001
+RAW TX: 02 03 00 62 00 01 25 E7
+RAW RX @24 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 02 39 3D 36
+RAW done: 1 frame(s); no automatic retry.
+COMMAND: x 500 0300630001
+RAW TX: 02 03 00 63 00 01 74 27
+RAW RX @26 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 02 93 BD 49
+RAW done: 1 frame(s); no automatic retry.
+COMMAND: x 500 0300640001
+RAW TX: 02 03 00 64 00 01 C5 E6
+RAW RX @18 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 02 DD 3D 7D
+RAW done: 1 frame(s); no automatic retry.
+COMMAND: x 500 0300690001
+RAW TX: 02 03 00 69 00 01 54 25
+RAW RX @20 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 03 BC 45
+RAW done: 1 frame(s); no automatic retry.
+COMMAND: x 500 03006a0001
+RAW TX: 02 03 00 6A 00 01 A4 25
+RAW RX @22 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.

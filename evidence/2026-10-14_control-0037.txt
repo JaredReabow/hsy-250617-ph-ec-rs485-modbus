@@ -1,0 +1,41 @@
+COMMAND: x 2000 0600600001
+RAW TX: 02 06 00 60 00 01 48 27
+RAW RX @190 ms length=8 CRC=OK overflow=no
+RAW BYTES: 02 06 00 60 00 01 48 27
+RAW done: 1 frame(s); no automatic retry.
+COMMAND: x 500 0300000001
+RAW TX: 02 03 00 00 00 01 84 39
+RAW RX @25 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 02 42 7D 15
+RAW done: 1 frame(s); no automatic retry.
+COMMAND: x 500 0300600001
+RAW TX: 02 03 00 60 00 01 84 27
+RAW RX @17 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 01 3D 84
+RAW done: 1 frame(s); no automatic retry.
+COMMAND: x 5000 0600370001
+RAW TX: 02 06 00 37 00 01 F9 F7
+RAW RX @41 ms length=8 CRC=OK overflow=no
+RAW BYTES: 02 06 00 37 00 01 F9 F7
+RAW done: 1 frame(s); no automatic retry.
+COMMAND: x 500 0300000001
+RAW TX: 02 03 00 00 00 01 84 39
+RAW done: 0 frame(s); no automatic retry.
+COMMAND: x 500 0300300001
+RAW TX: 02 03 00 30 00 01 84 36
+RAW done: 0 frame(s); no automatic retry.
+COMMAND: x 500 0300310001
+RAW TX: 02 03 00 31 00 01 D5 F6
+RAW done: 0 frame(s); no automatic retry.
+COMMAND: x 500 0300370001
+RAW TX: 02 03 00 37 00 01 35 F7
+RAW done: 0 frame(s); no automatic retry.
+COMMAND: x 500 0300620001
+RAW TX: 02 03 00 62 00 01 25 E7
+RAW done: 0 frame(s); no automatic retry.
+COMMAND: x 500 0300630001
+RAW TX: 02 03 00 63 00 01 74 27
+RAW done: 0 frame(s); no automatic retry.
+COMMAND: x 500 0300640001
+RAW TX: 02 03 00 64 00 01 C5 E6
+RAW done: 0 frame(s); no automatic retry.

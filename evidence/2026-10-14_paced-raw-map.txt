@@ -1,0 +1,703 @@
+REGISTER 0x0000 COMMAND: x 500 0300000001
+RAW TX: 02 03 00 00 00 01 84 39
+RAW RX @19 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 02 42 7D 15
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0001 COMMAND: x 500 0300010001
+RAW TX: 02 03 00 01 00 01 D5 F9
+RAW RX @31 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0002 COMMAND: x 500 0300020001
+RAW TX: 02 03 00 02 00 01 25 F9
+RAW RX @23 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0003 COMMAND: x 500 0300030001
+RAW TX: 02 03 00 03 00 01 74 39
+RAW RX @25 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0004 COMMAND: x 500 0300040001
+RAW TX: 02 03 00 04 00 01 C5 F8
+RAW RX @27 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0005 COMMAND: x 500 0300050001
+RAW TX: 02 03 00 05 00 01 94 38
+RAW RX @59 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0006 COMMAND: x 500 0300060001
+RAW TX: 02 03 00 06 00 01 64 38
+RAW RX @20 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0007 COMMAND: x 500 0300070001
+RAW TX: 02 03 00 07 00 01 35 F8
+RAW RX @22 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0008 COMMAND: x 500 0300080001
+RAW TX: 02 03 00 08 00 01 05 FB
+RAW RX @24 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0009 COMMAND: x 500 0300090001
+RAW TX: 02 03 00 09 00 01 54 3B
+RAW RX @86 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x000A COMMAND: x 500 03000a0001
+RAW TX: 02 03 00 0A 00 01 A4 3B
+RAW RX @18 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x000B COMMAND: x 500 03000b0001
+RAW TX: 02 03 00 0B 00 01 F5 FB
+RAW RX @20 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x000C COMMAND: x 500 03000c0001
+RAW TX: 02 03 00 0C 00 01 44 3A
+RAW RX @22 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x000D COMMAND: x 500 03000d0001
+RAW TX: 02 03 00 0D 00 01 15 FA
+RAW RX @134 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x000E COMMAND: x 500 03000e0001
+RAW TX: 02 03 00 0E 00 01 E5 FA
+RAW RX @26 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x000F COMMAND: x 500 03000f0001
+RAW TX: 02 03 00 0F 00 01 B4 3A
+RAW RX @17 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0010 COMMAND: x 500 0300100001
+RAW TX: 02 03 00 10 00 01 85 FC
+RAW RX @19 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 1A 00 F7 24
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0011 COMMAND: x 500 0300110001
+RAW TX: 02 03 00 11 00 01 D4 3C
+RAW RX @161 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 1C 00 F4 84
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0012 COMMAND: x 500 0300120001
+RAW TX: 02 03 00 12 00 01 24 3C
+RAW RX @23 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 01 01 3C 14
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0013 COMMAND: x 500 0300130001
+RAW TX: 02 03 00 13 00 01 75 FC
+RAW RX @25 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0014 COMMAND: x 500 0300140001
+RAW TX: 02 03 00 14 00 01 C4 3D
+RAW RX @17 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0015 COMMAND: x 500 0300150001
+RAW TX: 02 03 00 15 00 01 95 FD
+RAW RX @209 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0016 COMMAND: x 500 0300160001
+RAW TX: 02 03 00 16 00 01 65 FD
+RAW RX @21 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0017 COMMAND: x 500 0300170001
+RAW TX: 02 03 00 17 00 01 34 3D
+RAW RX @23 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0018 COMMAND: x 500 0300180001
+RAW TX: 02 03 00 18 00 01 04 3E
+RAW RX @25 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0019 COMMAND: x 500 0300190001
+RAW TX: 02 03 00 19 00 01 55 FE
+RAW RX @246 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x001A COMMAND: x 500 03001a0001
+RAW TX: 02 03 00 1A 00 01 A5 FE
+RAW RX @19 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x001B COMMAND: x 500 03001b0001
+RAW TX: 02 03 00 1B 00 01 F4 3E
+RAW RX @20 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x001C COMMAND: x 500 03001c0001
+RAW TX: 02 03 00 1C 00 01 45 FF
+RAW RX @33 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x001D COMMAND: x 500 03001d0001
+RAW TX: 02 03 00 1D 00 01 14 3F
+RAW RX @24 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x001E COMMAND: x 500 03001e0001
+RAW TX: 02 03 00 1E 00 01 E4 3F
+RAW RX @26 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x001F COMMAND: x 500 03001f0001
+RAW TX: 02 03 00 1F 00 01 B5 FF
+RAW RX @18 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0020 COMMAND: x 500 0300200001
+RAW TX: 02 03 00 20 00 01 85 F3
+RAW RX @60 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0021 COMMAND: x 500 0300210001
+RAW TX: 02 03 00 21 00 01 D4 33
+RAW RX @22 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 03 E8 FC FA
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0022 COMMAND: x 500 0300220001
+RAW TX: 02 03 00 22 00 01 24 33
+RAW RX @24 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 96 7C 2A
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0023 COMMAND: x 500 0300230001
+RAW TX: 02 03 00 23 00 01 75 F3
+RAW RX @26 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0024 COMMAND: x 500 0300240001
+RAW TX: 02 03 00 24 00 01 C4 32
+RAW RX @98 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 64 FD AF
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0025 COMMAND: x 500 0300250001
+RAW TX: 02 03 00 25 00 01 95 F2
+RAW RX @20 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 96 7C 2A
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0026 COMMAND: x 500 0300260001
+RAW TX: 02 03 00 26 00 01 65 F2
+RAW RX @18 ms length=5 CRC=OK overflow=no
+RAW BYTES: 02 83 02 30 F1
+RAW exception: function=0x03 code=0x02
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0027 COMMAND: x 500 0300270001
+RAW TX: 02 03 00 27 00 01 34 32
+RAW RX @24 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0028 COMMAND: x 500 0300280001
+RAW TX: 02 03 00 28 00 01 04 31
+RAW RX @126 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 01 3D 84
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0029 COMMAND: x 500 0300290001
+RAW TX: 02 03 00 29 00 01 55 F1
+RAW RX @14 ms length=5 CRC=OK overflow=no
+RAW BYTES: 02 83 02 30 F1
+RAW exception: function=0x03 code=0x02
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x002A COMMAND: x 500 03002a0001
+RAW TX: 02 03 00 2A 00 01 A5 F1
+RAW RX @15 ms length=5 CRC=OK overflow=no
+RAW BYTES: 02 83 02 30 F1
+RAW exception: function=0x03 code=0x02
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x002B COMMAND: x 500 03002b0001
+RAW TX: 02 03 00 2B 00 01 F4 31
+RAW RX @17 ms length=5 CRC=OK overflow=no
+RAW BYTES: 02 83 02 30 F1
+RAW exception: function=0x03 code=0x02
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x002C COMMAND: x 500 03002c0001
+RAW TX: 02 03 00 2C 00 01 45 F0
+RAW RX @149 ms length=5 CRC=OK overflow=no
+RAW BYTES: 02 83 02 30 F1
+RAW exception: function=0x03 code=0x02
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x002D COMMAND: x 500 03002d0001
+RAW TX: 02 03 00 2D 00 01 14 30
+RAW RX @21 ms length=5 CRC=OK overflow=no
+RAW BYTES: 02 83 02 30 F1
+RAW exception: function=0x03 code=0x02
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x002E COMMAND: x 500 03002e0001
+RAW TX: 02 03 00 2E 00 01 E4 30
+RAW RX @13 ms length=5 CRC=OK overflow=no
+RAW BYTES: 02 83 02 30 F1
+RAW exception: function=0x03 code=0x02
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x002F COMMAND: x 500 03002f0001
+RAW TX: 02 03 00 2F 00 01 B5 F0
+RAW RX @15 ms length=5 CRC=OK overflow=no
+RAW BYTES: 02 83 02 30 F1
+RAW exception: function=0x03 code=0x02
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0030 COMMAND: x 500 0300300001
+RAW TX: 02 03 00 30 00 01 84 36
+RAW RX @201 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 02 7D 85
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0031 COMMAND: x 500 0300310001
+RAW TX: 02 03 00 31 00 01 D5 F6
+RAW RX @23 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 48 00 CA 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0032 COMMAND: x 500 0300320001
+RAW TX: 02 03 00 32 00 01 25 F6
+RAW RX @25 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0033 COMMAND: x 500 0300330001
+RAW TX: 02 03 00 33 00 01 74 36
+RAW RX @27 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0034 COMMAND: x 500 0300340001
+RAW TX: 02 03 00 34 00 01 C5 F7
+RAW RX @244 ms length=5 CRC=OK overflow=no
+RAW BYTES: 02 83 02 30 F1
+RAW exception: function=0x03 code=0x02
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0035 COMMAND: x 500 0300350001
+RAW TX: 02 03 00 35 00 01 94 37
+RAW RX @16 ms length=5 CRC=OK overflow=no
+RAW BYTES: 02 83 02 30 F1
+RAW exception: function=0x03 code=0x02
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0036 COMMAND: x 500 0300360001
+RAW TX: 02 03 00 36 00 01 64 37
+RAW RX @18 ms length=5 CRC=OK overflow=no
+RAW BYTES: 02 83 02 30 F1
+RAW exception: function=0x03 code=0x02
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0037 COMMAND: x 500 0300370001
+RAW TX: 02 03 00 37 00 01 35 F7
+RAW RX @25 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0038 COMMAND: x 500 0300380001
+RAW TX: 02 03 00 38 00 01 05 F4
+RAW RX @22 ms length=5 CRC=OK overflow=no
+RAW BYTES: 02 83 02 30 F1
+RAW exception: function=0x03 code=0x02
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0039 COMMAND: x 500 0300390001
+RAW TX: 02 03 00 39 00 01 54 34
+RAW RX @14 ms length=5 CRC=OK overflow=no
+RAW BYTES: 02 83 02 30 F1
+RAW exception: function=0x03 code=0x02
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x003A COMMAND: x 500 03003a0001
+RAW TX: 02 03 00 3A 00 01 A4 34
+RAW RX @16 ms length=5 CRC=OK overflow=no
+RAW BYTES: 02 83 02 30 F1
+RAW exception: function=0x03 code=0x02
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x003B COMMAND: x 500 03003b0001
+RAW TX: 02 03 00 3B 00 01 F5 F4
+RAW RX @52 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x003C COMMAND: x 500 03003c0001
+RAW TX: 02 03 00 3C 00 01 44 35
+RAW RX @20 ms length=5 CRC=OK overflow=no
+RAW BYTES: 02 83 02 30 F1
+RAW exception: function=0x03 code=0x02
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x003D COMMAND: x 500 03003d0001
+RAW TX: 02 03 00 3D 00 01 15 F5
+RAW RX @21 ms length=5 CRC=OK overflow=no
+RAW BYTES: 02 83 02 30 F1
+RAW exception: function=0x03 code=0x02
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x003E COMMAND: x 500 03003e0001
+RAW TX: 02 03 00 3E 00 01 E5 F5
+RAW RX @13 ms length=5 CRC=OK overflow=no
+RAW BYTES: 02 83 02 30 F1
+RAW exception: function=0x03 code=0x02
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x003F COMMAND: x 500 03003f0001
+RAW TX: 02 03 00 3F 00 01 B4 35
+RAW RX @95 ms length=5 CRC=OK overflow=no
+RAW BYTES: 02 83 02 30 F1
+RAW exception: function=0x03 code=0x02
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0040 COMMAND: x 500 0300400001
+RAW TX: 02 03 00 40 00 01 85 ED
+RAW RX @21 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 50 4F 81 B0
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0041 COMMAND: x 500 0300410001
+RAW TX: 02 03 00 41 00 01 D4 2D
+RAW RX @23 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 45 54 CF 2B
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0042 COMMAND: x 500 0300420001
+RAW TX: 02 03 00 42 00 01 24 2D
+RAW RX @25 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 2D 32 60 C1
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0043 COMMAND: x 500 0300430001
+RAW TX: 02 03 00 43 00 01 75 ED
+RAW RX @127 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 35 31 2A C0
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0044 COMMAND: x 500 0300440001
+RAW TX: 02 03 00 44 00 01 C4 2C
+RAW RX @19 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 30 32 69 91
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0045 COMMAND: x 500 0300450001
+RAW TX: 02 03 00 45 00 01 95 EC
+RAW RX @21 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 32 2D 29 39
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0046 COMMAND: x 500 0300460001
+RAW TX: 02 03 00 46 00 01 65 EC
+RAW RX @23 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 56 34 C2 33
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0047 COMMAND: x 500 0300470001
+RAW TX: 02 03 00 47 00 01 34 2C
+RAW RX @155 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 2E 32 60 31
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0048 COMMAND: x 500 0300480001
+RAW TX: 02 03 00 48 00 01 04 2F
+RAW RX @22 ms length=5 CRC=OK overflow=no
+RAW BYTES: 02 83 02 30 F1
+RAW exception: function=0x03 code=0x02
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0049 COMMAND: x 500 0300490001
+RAW TX: 02 03 00 49 00 01 55 EF
+RAW RX @14 ms length=5 CRC=OK overflow=no
+RAW BYTES: 02 83 02 30 F1
+RAW exception: function=0x03 code=0x02
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x004A COMMAND: x 500 03004a0001
+RAW TX: 02 03 00 4A 00 01 A5 EF
+RAW RX @16 ms length=5 CRC=OK overflow=no
+RAW BYTES: 02 83 02 30 F1
+RAW exception: function=0x03 code=0x02
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x004B COMMAND: x 500 03004b0001
+RAW TX: 02 03 00 4B 00 01 F4 2F
+RAW RX @188 ms length=5 CRC=OK overflow=no
+RAW BYTES: 02 83 02 30 F1
+RAW exception: function=0x03 code=0x02
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x004C COMMAND: x 500 03004c0001
+RAW TX: 02 03 00 4C 00 01 45 EE
+RAW RX @20 ms length=5 CRC=OK overflow=no
+RAW BYTES: 02 83 02 30 F1
+RAW exception: function=0x03 code=0x02
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x004D COMMAND: x 500 03004d0001
+RAW TX: 02 03 00 4D 00 01 14 2E
+RAW RX @22 ms length=5 CRC=OK overflow=no
+RAW BYTES: 02 83 02 30 F1
+RAW exception: function=0x03 code=0x02
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x004E COMMAND: x 500 03004e0001
+RAW TX: 02 03 00 4E 00 01 E4 2E
+RAW RX @14 ms length=5 CRC=OK overflow=no
+RAW BYTES: 02 83 02 30 F1
+RAW exception: function=0x03 code=0x02
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x004F COMMAND: x 500 03004f0001
+RAW TX: 02 03 00 4F 00 01 B5 EE
+RAW RX @240 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0050 COMMAND: x 500 0300500001
+RAW TX: 02 03 00 50 00 01 84 28
+RAW RX @22 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0051 COMMAND: x 500 0300510001
+RAW TX: 02 03 00 51 00 01 D5 E8
+RAW RX @24 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 05 78 FF 36
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0052 COMMAND: x 500 0300520001
+RAW TX: 02 03 00 52 00 01 25 E8
+RAW RX @21 ms length=5 CRC=OK overflow=no
+RAW BYTES: 02 83 02 30 F1
+RAW exception: function=0x03 code=0x02
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0053 COMMAND: x 500 0300530001
+RAW TX: 02 03 00 53 00 01 74 28
+RAW RX @17 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 03 E8 FC FA
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0054 COMMAND: x 500 0300540001
+RAW TX: 02 03 00 54 00 01 C5 E9
+RAW RX @19 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0055 COMMAND: x 500 0300550001
+RAW TX: 02 03 00 55 00 01 94 29
+RAW RX @17 ms length=5 CRC=OK overflow=no
+RAW BYTES: 02 83 02 30 F1
+RAW exception: function=0x03 code=0x02
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0056 COMMAND: x 500 0300560001
+RAW TX: 02 03 00 56 00 01 64 29
+RAW RX @49 ms length=5 CRC=OK overflow=no
+RAW BYTES: 02 83 02 30 F1
+RAW exception: function=0x03 code=0x02
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0057 COMMAND: x 500 0300570001
+RAW TX: 02 03 00 57 00 01 35 E9
+RAW RX @21 ms length=5 CRC=OK overflow=no
+RAW BYTES: 02 83 02 30 F1
+RAW exception: function=0x03 code=0x02
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0058 COMMAND: x 500 0300580001
+RAW TX: 02 03 00 58 00 01 05 EA
+RAW RX @13 ms length=5 CRC=OK overflow=no
+RAW BYTES: 02 83 02 30 F1
+RAW exception: function=0x03 code=0x02
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0059 COMMAND: x 500 0300590001
+RAW TX: 02 03 00 59 00 01 54 2A
+RAW RX @15 ms length=5 CRC=OK overflow=no
+RAW BYTES: 02 83 02 30 F1
+RAW exception: function=0x03 code=0x02
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x005A COMMAND: x 500 03005a0001
+RAW TX: 02 03 00 5A 00 01 A4 2A
+RAW RX @87 ms length=5 CRC=OK overflow=no
+RAW BYTES: 02 83 02 30 F1
+RAW exception: function=0x03 code=0x02
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x005B COMMAND: x 500 03005b0001
+RAW TX: 02 03 00 5B 00 01 F5 EA
+RAW RX @18 ms length=5 CRC=OK overflow=no
+RAW BYTES: 02 83 02 30 F1
+RAW exception: function=0x03 code=0x02
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x005C COMMAND: x 500 03005c0001
+RAW TX: 02 03 00 5C 00 01 44 2B
+RAW RX @20 ms length=5 CRC=OK overflow=no
+RAW BYTES: 02 83 02 30 F1
+RAW exception: function=0x03 code=0x02
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x005D COMMAND: x 500 03005d0001
+RAW TX: 02 03 00 5D 00 01 15 EB
+RAW RX @22 ms length=5 CRC=OK overflow=no
+RAW BYTES: 02 83 02 30 F1
+RAW exception: function=0x03 code=0x02
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x005E COMMAND: x 500 03005e0001
+RAW TX: 02 03 00 5E 00 01 E5 EB
+RAW RX @128 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x005F COMMAND: x 500 03005f0001
+RAW TX: 02 03 00 5F 00 01 B4 2B
+RAW RX @20 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0060 COMMAND: x 500 0300600001
+RAW TX: 02 03 00 60 00 01 84 27
+RAW RX @22 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 01 3D 84
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0061 COMMAND: x 500 0300610001
+RAW TX: 02 03 00 61 00 01 D5 E7
+RAW RX @24 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 FA 7C 07
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0062 COMMAND: x 500 0300620001
+RAW TX: 02 03 00 62 00 01 25 E7
+RAW RX @176 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 02 39 3D 36
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0063 COMMAND: x 500 0300630001
+RAW TX: 02 03 00 63 00 01 74 27
+RAW RX @18 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 02 93 BD 49
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0064 COMMAND: x 500 0300640001
+RAW TX: 02 03 00 64 00 01 C5 E6
+RAW RX @20 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 02 DD 3D 7D
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0065 COMMAND: x 500 0300650001
+RAW TX: 02 03 00 65 00 01 94 26
+RAW RX @22 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0066 COMMAND: x 500 0300660001
+RAW TX: 02 03 00 66 00 01 64 26
+RAW RX @203 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0067 COMMAND: x 500 0300670001
+RAW TX: 02 03 00 67 00 01 35 E6
+RAW RX @25 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 01 3D 3C 05
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0068 COMMAND: x 500 0300680001
+RAW TX: 02 03 00 68 00 01 05 E5
+RAW RX @17 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 06 1D 3F ED
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0069 COMMAND: x 500 0300690001
+RAW TX: 02 03 00 69 00 01 54 25
+RAW RX @19 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 02 7D 85
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x006A COMMAND: x 500 03006a0001
+RAW TX: 02 03 00 6A 00 01 A4 25
+RAW RX @251 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 FF FF FD F4
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x006B COMMAND: x 500 03006b0001
+RAW TX: 02 03 00 6B 00 01 F5 E5
+RAW RX @23 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 BE 7C 34
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x006C COMMAND: x 500 03006c0001
+RAW TX: 02 03 00 6C 00 01 44 24
+RAW RX @25 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 1B BC 4F
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x006D COMMAND: x 500 03006d0001
+RAW TX: 02 03 00 6D 00 01 15 E4
+RAW RX @27 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 7A 7D A7
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x006E COMMAND: x 500 03006e0001
+RAW TX: 02 03 00 6E 00 01 E5 E4
+RAW RX @19 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 01 3D 84
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x006F COMMAND: x 500 03006f0001
+RAW TX: 02 03 00 6F 00 01 B4 24
+RAW RX @20 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0070 COMMAND: x 500 0300700001
+RAW TX: 02 03 00 70 00 01 85 E2
+RAW RX @22 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 01 90 FD B8
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0071 COMMAND: x 500 0300710001
+RAW TX: 02 03 00 71 00 01 D4 22
+RAW RX @64 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 07 D0 FF E8
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0072 COMMAND: x 500 0300720001
+RAW TX: 02 03 00 72 00 01 24 22
+RAW RX @26 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0073 COMMAND: x 500 0300730001
+RAW TX: 02 03 00 73 00 01 75 E2
+RAW RX @18 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 05 78 FF 36
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0074 COMMAND: x 500 0300740001
+RAW TX: 02 03 00 74 00 01 C4 23
+RAW RX @20 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 01 90 FD B8
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0075 COMMAND: x 500 0300750001
+RAW TX: 02 03 00 75 00 01 95 E3
+RAW RX @102 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 07 D0 FF E8
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0076 COMMAND: x 500 0300760001
+RAW TX: 02 03 00 76 00 01 65 E3
+RAW RX @24 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0077 COMMAND: x 500 0300770001
+RAW TX: 02 03 00 77 00 01 34 23
+RAW RX @26 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 07 D0 FF E8
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0078 COMMAND: x 500 0300780001
+RAW TX: 02 03 00 78 00 01 04 20
+RAW RX @13 ms length=5 CRC=OK overflow=no
+RAW BYTES: 02 83 02 30 F1
+RAW exception: function=0x03 code=0x02
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x0079 COMMAND: x 500 0300790001
+RAW TX: 02 03 00 79 00 01 55 E0
+RAW RX @135 ms length=5 CRC=OK overflow=no
+RAW BYTES: 02 83 02 30 F1
+RAW exception: function=0x03 code=0x02
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x007A COMMAND: x 500 03007a0001
+RAW TX: 02 03 00 7A 00 01 A5 E0
+RAW RX @401 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 01 3D 84
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x007B COMMAND: x 500 03007b0001
+RAW TX: 02 03 00 7B 00 01 F4 20
+RAW RX @123 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 6C FC 69
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x007C COMMAND: x 500 03007c0001
+RAW TX: 02 03 00 7C 00 01 45 E1
+RAW RX @125 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 01 3D 84
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x007D COMMAND: x 500 03007d0001
+RAW TX: 02 03 00 7D 00 01 14 21
+RAW RX @277 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 03 E8 FC FA
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x007E COMMAND: x 500 03007e0001
+RAW TX: 02 03 00 7E 00 01 E4 21
+RAW RX @119 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 14 FC 4B
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x007F COMMAND: x 500 03007f0001
+RAW TX: 02 03 00 7F 00 01 B5 E1
+RAW RX @17 ms length=5 CRC=OK overflow=no
+RAW BYTES: 02 83 02 30 F1
+RAW exception: function=0x03 code=0x02
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x00A0 COMMAND: x 500 0300a00001
+RAW TX: 02 03 00 A0 00 01 84 1B
+RAW RX @23 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x00A1 COMMAND: x 500 0300a10001
+RAW TX: 02 03 00 A1 00 01 D5 DB
+RAW RX @215 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 27 10 E6 78
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x00A2 COMMAND: x 500 0300a20001
+RAW TX: 02 03 00 A2 00 01 25 DB
+RAW RX @27 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x00A3 COMMAND: x 500 0300a30001
+RAW TX: 02 03 00 A3 00 01 74 1B
+RAW RX @19 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 00 00 FC 44
+RAW done: 1 frame(s); no automatic retry.
+REGISTER 0x00A4 COMMAND: x 500 0300a40001
+RAW TX: 02 03 00 A4 00 01 C5 DA
+RAW RX @20 ms length=7 CRC=OK overflow=no
+RAW BYTES: 02 03 02 B1 88 88 72
+RAW done: 1 frame(s); no automatic retry.

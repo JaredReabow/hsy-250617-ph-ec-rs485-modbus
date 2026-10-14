@@ -1,0 +1,5 @@
+Device found: addr 1 @ 9600 baud (pH reg = 0x0375)
+Bench v1.0.3: addr=1 baud=9600 device=found polling=off frames=off ok=19 fail=3
+TX: 01 03 00 00 00 03 05 CB
+RX: 01 03 06 03 75 00 00 00 00 AC 8D
+pH=8.85  EC=0 uS/cm  temperature=0.0 C   [addr 1 @ 9600 baud, ok=20 fail=3]
