@@ -1,5 +1,11 @@
 # Changelog
 
+## Documentation 1.0.1 - 2026-10-14
+
+- Record the public repository and two community-specific Reddit publications.
+- Add verified discussion permalinks and the published post text.
+- No firmware or hardware changes; PDF permission and original photos remain pending.
+
 ## Documentation 1.0.0 - 2026-10-14
 
 - Publish independent HSY-250617-v2.3 / POET-251022-V4.2 controller reference.

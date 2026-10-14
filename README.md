@@ -22,6 +22,8 @@ Similar enclosures and BGT-WMPS(O1) manuals do **not** establish identical firmw
   ESP32-S3-Relay-1CH wiring, build instructions and raw diagnostics.
 - **[Bench evidence index](evidence/README.md)**: raw captures, including failed
   experiments and the explicitly unreliable early sweep.
+- **[Community discussions](docs/community-posts.md)**: published Reddit posts
+  and their original text, with links for follow-up evidence.
 
 ## The useful finding
 
